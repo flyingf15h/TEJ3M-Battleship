@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <stdbool.h>
 
 /* 
     void   |   createBoard(char [10][10]);                          |   initialize the board the users are playing on
