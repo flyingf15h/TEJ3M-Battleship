@@ -1,7 +1,3 @@
-// Tsz Fei Wang
-// Mr. Gugliemi
-// Dec 3, 2024
-// This program allows the user to display instructions for and play the two player game of battleship on console. 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
